@@ -1,0 +1,5 @@
+/home/zhake/Projects/NER/NER/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zhake/Projects/NER/NER/bin/Debug/NER.exe.mdb
+/home/zhake/Projects/NER/NER/bin/Debug/NER.exe
+/home/zhake/Projects/NER/NER/obj/x86/Debug/NER.exe
+/home/zhake/Projects/NER/NER/obj/x86/Debug/NER.exe.mdb
